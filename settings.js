@@ -16,8 +16,8 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
+  OWNER_NUMBER: "94753723108",
+  SUDO_NUMBERS : "94753723108,94753723108",
   OWNER_NAME: "𝐃𝐀𝐗𝐓𝐎𝐍 - 𝐈𝐃",
   BOT_NAME : "𝐃𝐀𝐗𝐓𝐎𝐍 - 𝐈𝐃",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -35,8 +35,8 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 𝐃𝐀𝐗𝐓𝐎𝐍 - 𝐈𝐃',
+  STICKER_PACK : '[ 𝐃𝐀𝐗𝐓𝐎𝐍 - 𝐈𝐃 ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -50,7 +50,7 @@ module.exports = {
   READ : {
      ALL_MESSAGES : true,
      ONLY_COMMANDS : false,
-     STATUS : false,
+     STATUS : true,
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
